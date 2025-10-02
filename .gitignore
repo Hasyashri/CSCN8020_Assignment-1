@@ -1,0 +1,21 @@
+# ignore virtual environment 
+venv/
+env/
+.venv/
+# ignore Python cache files
+__pycache__/
+*.py[cod]
+# ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# ignore files that has more than 20 MB size
+* >20MB
+# ignore log files
+*.log
+# ignore OS generated files
+.DS_Store
+Thumbs.db
+# ignore IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
