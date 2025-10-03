@@ -4,7 +4,7 @@ Reinforcement Learning Assignment 1
 
 **Course**: CSCN 8020 – Reinforcement Learning  
 **Assignment**: Programming Assignment 1  
-**Date**: September 29, 2023  
+**Date**: 2nd October 2025 
 **Author**: Hasyashri Bhatt
 **Student Id**: 9028501
 
